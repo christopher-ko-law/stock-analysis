@@ -30,6 +30,16 @@ Below are screenshots of the original execution times.
 | 2017 | ![2017 Original](https://github.com/christopher-ko-law/stock-analysis/blob/main/Resources/AllStocksAnalysis-2017-Original.png) | ![2017 Refactored](/Resources/AllStocksAnalysis-2017-Refactored.png) |
 | 2018 | ![2018 Original](/Resources/AllStocksAnalysis-2018-Original.png) |![2018 Original](/Resources/AllStocksAnalysis-2018-Refactored.png) |
 
+The original and refactor scripts were run 3 times each for a spread of execution times. Below is the table of execution times.
+
+| | 2017 Original | 2018 Original | 2017 Refactored | 2018 Refactored |
+| --- | --- | --- | --- | --- |  
+| Run 1 | 0.7968875	| 0.7617188	| 0.1523438	| 0.140625 |
+| Run 2 | 0.7265625	| 0.7539062	| 0.137188 | 0.13675188 |
+| Run 3 | 0.7226562	| 0.734375 | 0.140625 |	0.1445312 |
+| Mean | 0.748702067 | 0.75	| 0.1433856	| 0.140636027 |
+
+We see here that the refactored code runs nearly around 5x faster then the original script.
 
 ## Summary
 
