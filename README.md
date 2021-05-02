@@ -17,7 +17,7 @@ The results of this analysis will be compared to the original script to ensure t
 
 Below is a chart showing stock performance between 2017 and 2018.
 
-![2017 Original](/resources/stock-analysis-chart.png)
+![Stock Analysis](/resources/stock-analysis-chart.png)
 
 We see that stocks in 2018 generally posted a negative return then in 2017. Of the 12 stocks that were analyzed, only 2 - ENPH and RUN posted a positive return.
 
@@ -26,7 +26,7 @@ We see that stocks in 2018 generally posted a negative return then in 2017. Of t
 Below are screenshots of the original execution times.
 
 |    |**Original**|**Refactored**|
-|2017|![2017 Original](/resources/AllStocksAnalysis-2017-Original.png)|![2017 Refactored](/resources/AllStocksAnalysis-2017-Refactored.png)|
+|2017|![2017 Original](https://github.com/christopher-ko-law/stock-analysis/blob/main/Resources/AllStocksAnalysis-2017-Original.png)|![2017 Refactored](/resources/AllStocksAnalysis-2017-Refactored.png)|
 |2018|![2018 Original](/resources/AllStocksAnalysis-2018-Original.png)|![2018 Original](/resources/AllStocksAnalysis-2018-Refactored.png)|
 
 
