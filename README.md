@@ -25,9 +25,10 @@ We see that stocks in 2018 generally posted a negative return then in 2017. Of t
 
 Below are screenshots of the original execution times.
 
-|    |**Original**|**Refactored**|
-|2017|![2017 Original](https://github.com/christopher-ko-law/stock-analysis/blob/main/Resources/AllStocksAnalysis-2017-Original.png)|![2017 Refactored](https://github.com/christopher-ko-law/stock-analysis/blob/main/Resources/AllStocksAnalysis-2017-Refactored.png)|
-|2018|![2018 Original](/Resources/AllStocksAnalysis-2018-Original.png)|![2018 Original](/Resources/AllStocksAnalysis-2018-Refactored.png)|
+|     | Original | Refactored |
+| --- | --- | --- | 
+| 2017 | ![2017 Original](https://github.com/christopher-ko-law/stock-analysis/blob/main/Resources/AllStocksAnalysis-2017-Original.png) | ![2017 Refactored](/Resources/AllStocksAnalysis-2017-Refactored.png) |
+| 2018 | ![2018 Original](/Resources/AllStocksAnalysis-2018-Original.png) |![2018 Original](/Resources/AllStocksAnalysis-2018-Refactored.png) |
 
 
 ## Summary
